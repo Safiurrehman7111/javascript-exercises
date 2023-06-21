@@ -1,0 +1,1 @@
+console .log ('Once Imran Khan said, "Aap ny Ghabrana nahi hai!!"'); //favorite Quote
