@@ -34,3 +34,4 @@ while(b<people.length){
 }
 people.pop();
 people.pop();
+
